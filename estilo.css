@@ -1,0 +1,17 @@
+.container-fluid{
+    border: 1px solid black;
+    width: 40%;
+    margin-top: 7%;
+}
+.container-fluid div{
+    width: 230%;
+}
+.selecionavel{
+    display: none;
+}
+.imagens{
+    float: right;
+}
+#adicionarTarefa{
+    margin-top: 30px;
+}
